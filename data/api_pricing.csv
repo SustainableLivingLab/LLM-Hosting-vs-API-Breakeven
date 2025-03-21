@@ -1,0 +1,17 @@
+Model,Provider,Context,Input/1M Tokens,Output/1M Tokens
+o1-pro,OpenAI,128K,$150,$600
+o1,OpenAI,128K,$15,$60
+gpt-4o,OpenAI,128K,$2.5,$10
+gpt-4o-mini,OpenAI,128K,$0.15,$0.06
+o3-mini,OpenAI,128K,$1.10,$4.40
+o1-mini,OpenAI,128K,$3,$12
+o1-mini,OpenAI,128K,$1.10,$4.40
+o1,OpenAI,128K,$15,$60
+Claude 3 Opus,Anthropic,200K,$15,$75
+Claude 3.7 Sonnet,Anthropic,200K,$3,$15
+Claude 3.5 Haiku,Anthropic,200K,$0.8,$4
+Gemini 2.0 Flash,Google,1M,$0.1,$0.4
+Gemini 1.5 Pro,Google,1M,$12.5,$5
+Gemini 2.0 Flash-Lite,Google,1M,$0.075,$0.3
+Gemini 1.5 Flash,Google,1M,$0.075,$0.3
+Gemini 1.0 Pro,Google,32K,$0.5,$1.5

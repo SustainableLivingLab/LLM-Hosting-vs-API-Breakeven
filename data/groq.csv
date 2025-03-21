@@ -1,0 +1,17 @@
+AI Model,Current Speed (Tokens per Second),Input Token Price (Per Million Tokens),Output Token Price (Per Million Tokens)
+DeepSeek R1 Distill Llama 70B,275,$0.75,$0.99
+DeepSeek R1 Distill Qwen 32B 128k,140,$0.69,$0.69
+Qwen 2.5 32B Instruct 128k,200,$0.79,$0.79
+Qwen 2.5 Coder 32B Instruct 128k,390,$0.79,$0.79
+Qwen QwQ 32B (Preview) 128k,400,$0.29,$0.39
+Mistral Saba 24B,330,$0.79,$0.79
+Llama 3.2 1B (Preview) 8k,3100,$0.04,$0.04
+Llama 3.2 3B (Preview) 8k,1600,$0.06,$0.06
+Llama 3.3 70B Versatile 128k,275,$0.59,$0.79
+Llama 3.1 8B Instant 128k,750,$0.05,$0.08
+Llama 3 70B 8k,330,$0.59,$0.79
+Llama 3 8B 8k,1250,$0.05,$0.08
+Mixtral 8x7B Instruct 32k,575,$0.24,$0.24
+Gemma 2 9B 8k,500,$0.20,$0.20
+Llama Guard 3 8B 8k,765,$0.20,$0.20
+Llama 3.3 70B SpecDec 8k,1600,$0.59,$0.99
